@@ -13,10 +13,7 @@ function Home2() {
               LET ME <span className="purple"> INTRODUCE </span> MYSELF
             </h1>
             <p className="home-about-body">
-              I’m a Software Engineer who loves transforming ideas into
-              reliable, scalable products. Over time, I’ve explored several
-              technologies and found my passion in building high-performance
-              systems and intuitive user experiences.
+              I’m am a dedicated developer with a strong passion for technology and problem-solving. I specialize in building websites and smart automation tools such as WhatsApp bots. My goal is to create impactful digital solutions that empower people, simplify communication, and support business growth through innovation.
               <br />
               <br />
               I’m proficient in
